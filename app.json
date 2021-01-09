@@ -23,7 +23,7 @@
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "Token bot mu, as a string.",
       "value": ""
     },
     "CHAT_BASE_TOKEN": {
